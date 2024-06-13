@@ -1,0 +1,218 @@
+[INFO ] 2024-06-12 22:36:00.841 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 22:36:01.008 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 22:36:02.219 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:36:03.755 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:36:03.990 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:36:04.096 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:36:05.376 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:36:05.448 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:36:07.289 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:36:07.297 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:36:08.075 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:36:08.213 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:36:08.293 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:36:11.756 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:36:11.786 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:36:12.967 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:36:12.974 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:36:13.848 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:36:13.979 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:36:14.059 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:36:14.894 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:36:14.920 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 22:36:16.340 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:36:16.680 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 22:36:17.762 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:36:17.847 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 22:36:17.906 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 22:47:45.310 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 22:47:45.427 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 22:47:46.996 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:47:48.473 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:47:48.681 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:47:48.780 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:47:49.925 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:47:49.959 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:47:51.582 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:47:51.586 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:47:52.319 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:47:52.521 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:47:52.619 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:47:53.808 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:47:53.836 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:47:55.001 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:47:55.003 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:47:56.286 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:47:56.505 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:47:56.638 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:47:57.440 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:47:57.473 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 22:47:58.592 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:47:59.013 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 22:47:59.960 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:48:00.085 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 22:48:00.148 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 22:50:03.853 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 22:50:03.942 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 22:50:05.418 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:50:07.004 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:50:07.204 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:50:07.281 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:50:09.035 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:50:09.089 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:50:16.189 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:50:16.194 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:50:17.135 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:50:17.270 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:50:17.347 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:50:18.317 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:50:18.344 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 22:50:19.480 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:50:19.482 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 22:50:23.043 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:50:23.162 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 22:50:23.244 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 22:50:24.133 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 22:50:24.158 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 22:50:25.611 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 22:50:26.024 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 22:50:26.918 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 22:50:27.062 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 22:50:27.116 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 23:12:04.957 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:12:05.052 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:12:06.325 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:12:07.778 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:12:08.020 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:12:08.124 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:12:09.111 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:12:09.182 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:12:11.010 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:12:11.015 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:12:11.827 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:12:11.990 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:12:12.084 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:12:13.311 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:12:13.338 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:12:14.324 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:12:14.329 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:12:15.791 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:12:15.971 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:12:16.091 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:12:16.913 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:12:16.939 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 23:12:18.118 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:12:18.544 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 23:12:19.528 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:12:19.648 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 23:12:19.711 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 23:15:44.156 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:15:44.248 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:15:45.299 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:15:47.140 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:15:47.382 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:15:47.493 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:15:48.486 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:15:48.556 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:15:49.600 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:15:49.609 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:15:50.381 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:15:50.544 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:15:50.641 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:15:51.405 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:15:51.432 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:15:52.369 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:15:52.372 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:15:53.107 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:15:53.290 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:15:53.414 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:15:54.211 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:15:54.238 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 23:15:55.206 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:15:55.624 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 23:15:56.337 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:15:56.452 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 23:15:56.513 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 23:15:57.517 [main] MyStoreV1 - 6.Enter Gender
+[INFO ] 2024-06-12 23:15:57.605 [main] MyStoreV1 - 7.Enter First Name
+[INFO ] 2024-06-12 23:15:57.691 [main] MyStoreV1 - 8.Enter Last Name
+[INFO ] 2024-06-12 23:15:57.903 [main] MyStoreV1 - 9.Enter Email
+[INFO ] 2024-06-12 23:15:58.415 [main] MyStoreV1 - 10.Enter Date of birth
+[INFO ] 2024-06-12 23:15:58.472 [main] MyStoreV1 - 11.Select newsletter
+[INFO ] 2024-06-12 23:16:03.676 [main] MyStoreV1 - 12.Click Regestrations
+[ERROR] 2024-06-12 23:16:03.727 [main] MyStoreV1 - Failed to show Register User Name: Prachi Gupta
+[INFO ] 2024-06-12 23:17:37.585 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:17:37.640 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:17:38.641 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:17:40.376 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:17:40.610 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:17:40.709 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:17:41.779 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:17:41.814 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:17:42.845 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:17:42.852 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:17:44.409 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:17:44.574 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:17:44.668 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:17:45.922 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:17:45.949 [main] MyStoreV1 - Register UserName is showing correctly: Prachi gupta
+[INFO ] 2024-06-12 23:17:47.550 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:17:47.556 [main] MyStoreV1 - ***************TestCase Verify Login Starts*****************
+[INFO ] 2024-06-12 23:17:48.466 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:17:48.639 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:17:48.763 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:17:49.682 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:17:49.710 [main] MyStoreV1 - Register UserName is showing correctly: Automation Test
+[INFO ] 2024-06-12 23:17:51.218 [main] MyStoreV1 - ***************TestCase Verify Login Ends*****************
+[INFO ] 2024-06-12 23:17:51.655 [main] MyStoreV1 - ***************TestCase Verify Registration Page Starts*****************
+[INFO ] 2024-06-12 23:17:52.593 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:17:52.705 [main] MyStoreV1 - 4.Enter Email Addressr
+[INFO ] 2024-06-12 23:17:52.769 [main] MyStoreV1 - 5.Click Create and account button
+[INFO ] 2024-06-12 23:17:53.860 [main] MyStoreV1 - 6.Enter Gender
+[INFO ] 2024-06-12 23:17:53.949 [main] MyStoreV1 - 7.Enter First Name
+[INFO ] 2024-06-12 23:17:54.039 [main] MyStoreV1 - 8.Enter Last Name
+[INFO ] 2024-06-12 23:17:54.209 [main] MyStoreV1 - 9.Enter Email
+[INFO ] 2024-06-12 23:17:54.730 [main] MyStoreV1 - 10.Enter Date of birth
+[INFO ] 2024-06-12 23:17:54.793 [main] MyStoreV1 - 11.Select newsletter
+[INFO ] 2024-06-12 23:18:03.132 [main] MyStoreV1 - 12.Click Regestrations
+[INFO ] 2024-06-12 23:18:03.182 [main] MyStoreV1 - Register User Name is showing correctly: Prachi Gupta
+[INFO ] 2024-06-12 23:18:03.182 [main] MyStoreV1 - Your account has been created message is showing correctly: Your account has been created.
+[INFO ] 2024-06-12 23:18:04.591 [main] MyStoreV1 - ***************TestCase Verify Registration Page *****************
+[INFO ] 2024-06-12 23:19:15.486 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:19:15.538 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:19:15.559 [main] MyStoreV1 - ***************TestCase Search Product Starts*****************
+[INFO ] 2024-06-12 23:19:18.121 [main] MyStoreV1 - click sigIn button
+[INFO ] 2024-06-12 23:19:18.320 [main] MyStoreV1 - Enter email
+[INFO ] 2024-06-12 23:19:18.441 [main] MyStoreV1 - Enter Password
+[INFO ] 2024-06-12 23:19:19.558 [main] MyStoreV1 - click submit login button
+[INFO ] 2024-06-12 23:19:19.655 [main] MyStoreV1 - search Product
+[INFO ] 2024-06-12 23:19:21.162 [main] MyStoreV1 - search Button Click
+[INFO ] 2024-06-12 23:19:21.246 [main] MyStoreV1 - Search Product testcase - Passed
+[INFO ] 2024-06-12 23:19:22.069 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2024-06-12 23:19:57.517 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:19:57.576 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:19:58.604 [main] MyStoreV1 - ***************TestCase Verify Product Purchase Page Starts*****************
+[INFO ] 2024-06-12 23:19:59.973 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:20:00.188 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:20:00.313 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:20:01.238 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:20:08.907 [main] MyStoreV1 - 4.Add Product Details
+[INFO ] 2024-06-12 23:20:12.752 [main] MyStoreV1 - 4.Order checkout click
+[INFO ] 2024-06-12 23:20:14.792 [main] MyStoreV1 - 5.Give addess
+[INFO ] 2024-06-12 23:20:16.123 [main] MyStoreV1 - 6.confirm addess
+[INFO ] 2024-06-12 23:20:17.416 [main] MyStoreV1 - 7.shipped
+[INFO ] 2024-06-12 23:20:18.665 [main] MyStoreV1 - 8.payment
+[INFO ] 2024-06-12 23:20:27.258 [main] MyStoreV1 - 9.confirmed order
+[INFO ] 2024-06-12 23:20:27.332 [main] MyStoreV1 - 9.confirmed order
+[ERROR] 2024-06-12 23:20:27.333 [main] MyStoreV1 - Failed to purchase: Your order on My Shop is complete.
+[INFO ] 2024-06-12 23:24:08.242 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:24:30.718 [main] MyStoreV1 - 1.Open URL
+[INFO ] 2024-06-12 23:24:30.777 [main] MyStoreV1 - 2.Browser Maximize
+[INFO ] 2024-06-12 23:24:31.804 [main] MyStoreV1 - ***************TestCase Verify Product Purchase Page Starts*****************
+[INFO ] 2024-06-12 23:24:34.673 [main] MyStoreV1 - 3.Click Sign in from navbar
+[INFO ] 2024-06-12 23:24:34.881 [main] MyStoreV1 - 4.Enter Login Email
+[INFO ] 2024-06-12 23:24:34.998 [main] MyStoreV1 - 5.Enter Login Password
+[INFO ] 2024-06-12 23:24:35.955 [main] MyStoreV1 - 6.Click Sign in Button
+[INFO ] 2024-06-12 23:24:45.977 [main] MyStoreV1 - 4.Add Product Details
+[INFO ] 2024-06-12 23:24:50.400 [main] MyStoreV1 - 4.Order checkout click
+[INFO ] 2024-06-12 23:24:52.586 [main] MyStoreV1 - 5.Give addess
